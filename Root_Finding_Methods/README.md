@@ -5,4 +5,4 @@ This Folder Contains all of the Root Finding Method Algorithms from MECH105
 * Fixed Point Iteration
 * Newton Raphson Method
 * Secant Method
-* Midified Secant Method
+* Modified Secant Method
