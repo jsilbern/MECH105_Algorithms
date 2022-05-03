@@ -1,5 +1,5 @@
 function [I,ea] = RombergInt(f,a,b,n)
-%Romberg: Estimates the integration of a function using Romberg Integration
+%RombergInt: Estimates the integration of a function using Romberg Integration
 %   Inputs:
 %       f = the function to be integrated
 %       a = the lower bound of integration
