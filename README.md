@@ -23,3 +23,4 @@ This folder contains the Algorithm Assignments from MECH105 Spring 2022
 * Romberg Differentiation
 
 ### Linear Regression
+* Linear Regression
