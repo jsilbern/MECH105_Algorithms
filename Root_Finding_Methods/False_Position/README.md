@@ -1,4 +1,4 @@
-## FALSEPOSITION
+# FALSEPOSITION
 This function calculates the root approximation of a function using the false position method
 ## Inputs
 * func: the function used to calculate the root
