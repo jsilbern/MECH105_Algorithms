@@ -7,7 +7,7 @@ This folder contains the Algorithm Assignments from MECH105 Spring 2022
 * Fixed Point Iteration
 * Newton Raphson Method
 * Secant Method
-* Midified Secant Method
+* Modified Secant Method
 
 ## Linear Algebra
 * LU Factorization
