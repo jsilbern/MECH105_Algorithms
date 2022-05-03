@@ -1,2 +1,25 @@
-# MECH105_Algorithms
-This folder contains the Algorithm Assignments from MECH 105
+# MECH105 Algorithms
+This folder contains the Algorithm Assignments from MECH105 Spring 2022
+
+## Root Finding Methods
+* Bisection Method
+* Falso Position Method
+* Fixed Point Iteration
+* Newton Raphson Method
+* Secant Method
+* Midified Secant Method
+
+## Linear Algebra
+* LU Factorization
+
+## Experimental Data
+### Integration
+* Trapezoidal Rule
+* Simpson 1/3 Rule
+* Simpson 3/8 Rule
+* Romberg Integration
+
+### Differentiation
+* Romberg Differentiation
+
+### Linear Regression
