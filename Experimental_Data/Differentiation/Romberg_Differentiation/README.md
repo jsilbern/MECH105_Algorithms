@@ -6,5 +6,5 @@ Estimates the derivative of a function using Romberg Derivation
 * b = the upper bound of derivation
 * n = the number of iterations of the romberg equation
 ## Outputs
-* I = the integration estimate
+* I = the derivative estimate
 * ea = the approximate relative error for the derivation iterations
