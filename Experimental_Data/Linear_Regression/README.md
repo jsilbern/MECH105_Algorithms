@@ -1,4 +1,4 @@
-# linear Regression
+# Linear Regression
 Computes the linear regression of a data set
 ## Inputs
 * x: x-values for our data set
