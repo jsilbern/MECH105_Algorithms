@@ -50,7 +50,7 @@ for m = 1:r-1
     end
 end
 
-% Insert Ones for L matrix
+% Insert Ones for L matrix 
 for n = 1:r
     L(n,n) = 1;
 end
