@@ -1,2 +1,2 @@
-#Linear Algebra
+# Linear Algebra
 * LU Factorization
