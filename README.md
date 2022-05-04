@@ -13,14 +13,14 @@ This folder contains the Algorithm Assignments from MECH105 Spring 2022
 * LU Factorization
 
 ## Experimental Data
-### Integration
-* Trapezoidal Rule
-* Simpson 1/3 Rule
-* Simpson 3/8 Rule
-* Romberg Integration
+  ### Integration
+  * Trapezoidal Rule
+  * Simpson 1/3 Rule
+  * Simpson 3/8 Rule
+  * Romberg Integration
 
-### Differentiation
-* Romberg Differentiation
+  ### Differentiation
+  * Romberg Differentiation
 
 ### Linear Regression
 * Linear Regression
