@@ -3,7 +3,7 @@ This folder contains the Algorithm Assignments from MECH105 Spring 2022
 
 ## Root Finding Methods
 * Bisection Method
-* Falso Position Method
+* False Position Method
 * Fixed Point Iteration
 * Newton Raphson Method
 * Secant Method
