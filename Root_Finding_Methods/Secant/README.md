@@ -1,4 +1,4 @@
-# Secant Method
+# Secant
 This function calculates the root approximation of a function using the Secant method
 ## Inputs
 * func: the function used to calculate the root
