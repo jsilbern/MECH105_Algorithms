@@ -11,6 +11,7 @@ This folder contains the Algorithm Assignments from MECH105 Spring 2022
 
 ## Linear Algebra
 * LU Factorization
+* specialMatrix
 
 ## Experimental Data
 ### Integration
